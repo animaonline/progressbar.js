@@ -5,7 +5,7 @@
   "main": "dist/progressbar.js",
   "dependencies": {
     "lodash.merge": "^4.6.2",
-    "shifty": "^2.8.3"
+    "shifty": "^3.0.4"
   },
   "devDependencies": {
     "bluebird": "^2.3.6",
@@ -16,7 +16,7 @@
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-uglify": "^5.2.2",
     "grunt-karma": "^2.0.0",
     "grunt-shell": "^1.1.1",
     "jscs": "^2.0.0",
